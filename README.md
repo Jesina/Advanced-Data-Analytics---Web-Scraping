@@ -6,9 +6,9 @@
 
 ### Section 1 : Process
 
-1.Enter any url (webpage)
-2.Open and scrape that webpage's words each word
-3.Save that info into a csv 
+1. Enter any url (webpage)
+2. Open and scrape that webpage's words each word
+3. Save that info into a csv 
 
 ### Section 2 : Process
 
