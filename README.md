@@ -4,13 +4,13 @@
   <h4>Performing Exploratory Data Analysis on product comparison for E-Commerce.</h4>
 </div>
 ### : star: Section 1 : Extracting the Details
-``` 
+
 1.Enter any url (webpage)
 2.Open and scrape that webpage's words each word
 3,Save that info into a csv
-```
+
 ### : key : Section 2 : Process
-```
+
 1. Data Collection using web scraping
 2. Data transformation
 3. Data Cleaning
@@ -18,16 +18,6 @@
 5. Error Analysis
 6. Inferential Statistics
 7. Data Visualization
-```
-### 🚀&nbsp; Usage
-
-##### Clone the repo
-```
-
-```
-
-### :key: Run
-
 
 
 #### :clap: And it's done! You can use the response for your tasks/applications.
