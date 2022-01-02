@@ -20,6 +20,10 @@
 6. Inferential Statistics
 7. Data Visualization
 
+### :key: Software Requirement
+```
+Jupyter Notebook(Anaconda)
+```
 
 #### :clap: And it's done! You can use the response for your tasks/applications.
 Feel free to **file a new issue** with a respective title and description on the [Advanced-Data-Analytics---Web-Scraping](https://github.com/Jesina/
