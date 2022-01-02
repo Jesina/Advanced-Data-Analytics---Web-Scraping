@@ -26,5 +26,5 @@ Feel free to **file a new issue** with a respective title and description on the
 Advanced-Data-Analytics---Web-Scraping/issues) repository. If you feel to add any improvements/changes, **I would love to add your contributions**! 
 
 ### :heart: Contributor
-Made by [Jesina](https://github.com/Jesina)
+Made by [Jesina Banu](https://github.com/Jesina)
 
