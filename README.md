@@ -4,7 +4,7 @@
   <h4>Performing Exploratory Data Analysis on product comparison for E-Commerce.</h4>
 </div>
 
-### Section 1 : Process
+### Section 1 : Extracting the Details
 
 1. Enter any url (webpage)
 2. Open and scrape that webpage's words each word
@@ -26,8 +26,7 @@ Jupyter Notebook(Anaconda)
 ```
 
 #### :clap: And it's done! You can use the response for your tasks/applications.
-Feel free to **file a new issue** with a respective title and description on the [Advanced-Data-Analytics---Web-Scraping](https://github.com/Jesina/
-Advanced-Data-Analytics---Web-Scraping/issues) repository. If you feel to add any improvements/changes, **I would love to add your contributions**! 
+Feel free to **file a new issue** with a respective title and description on the [Advanced-Data-Analytics---Web-Scraping](https://github.com/Jesina/Advanced-Data-Analytics---Web-Scraping/issues) repository. If you feel to add any improvements/changes, **I would love to add your contributions**! 
 
 ### :heart: Contributor
 Made by [Jesina Banu](https://github.com/Jesina)
