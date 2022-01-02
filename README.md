@@ -22,8 +22,9 @@
 
 
 #### :clap: And it's done! You can use the response for your tasks/applications.
-Feel free to **file a new issue** with a respective title and description on the [employee-management-system](https://github.com/dhamodaran-pandiyan/employee-management-system/issues) repository. If you feel to add any improvements/changes, **I would love to add your contributions**! 
+Feel free to **file a new issue** with a respective title and description on the [Advanced-Data-Analytics---Web-Scraping](https://github.com/Jesina/
+Advanced-Data-Analytics---Web-Scraping/issues) repository. If you feel to add any improvements/changes, **I would love to add your contributions**! 
 
 ### :heart: Contributor
-Made by [Dhamodaran Pandiyan](https://github.com/dhamodaran-pandiyan)
+Made by [Jesina](https://github.com/Jesina)
 
