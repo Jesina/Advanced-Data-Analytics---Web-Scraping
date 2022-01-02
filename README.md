@@ -3,13 +3,13 @@
 <div align= "center">
   <h4>Performing Exploratory Data Analysis on product comparison for E-Commerce.</h4>
 </div>
-### : star: Section 1 : Extracting the Details
+### :Section 1 : Extracting the Details
 
 1.Enter any url (webpage)
 2.Open and scrape that webpage's words each word
-3,Save that info into a csv
+3.Save that info into a csv
 
-### : key : Section 2 : Process
+### :Section 2 : Process
 
 1. Data Collection using web scraping
 2. Data transformation
